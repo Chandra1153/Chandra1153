@@ -6,5 +6,5 @@
 <div align=left><h2>STACKS</h2></div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </div>
